@@ -1,0 +1,11 @@
+.item-add-form {
+    margin-top: 1.5%;
+}
+
+.item-add-form button {
+    white-space: nowrap;
+}
+
+.item-add-form input {
+    margin-right: 1%;
+}
